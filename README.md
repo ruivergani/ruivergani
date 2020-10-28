@@ -52,7 +52,7 @@
 [facebook]: https://facebook.com/ruiverganineto
 [instagram]: https://instagram.com/ruiverganineto
 [linkedin]: https://linkedin.com/in/ruiverganineto
-[webdevplaylist]: https://www.youtube.com/
+[webdevplaylist]: 
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
 [reactplaylist]: https://www.youtube.com/
