@@ -1,5 +1,5 @@
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ruiverganineto/)](https://https://www.linkedin.com/in/ruiverganineto/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruiverganineto/)](https://www.linkedin.com/in/ruiverganineto/)
 [![Gmail Badge](http://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=en_GB&phone=4407543281851)](https://api.whatsapp.com/send?1=en_GB&phone=4407543281851)
 
 ## Here is what I am working on! 👋
