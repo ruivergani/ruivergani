@@ -4,12 +4,25 @@
 
 Access to Higher Education Diploma: Computing at Kingston College
 
-## I'm a Student in United Kingdom!
+## Here is what I am working on! 
 
 - 🔭 I just launched my portfolio: !
 - 🌱 I’m currently developing my coding skills
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
+
+### My name is Erik Hanchett and I'm a full stack developer! 👋
+
+
+- 🔭 I’m currently working on ... YouTube
+- 🌱 I’m currently learning ... Vue.js
+- 👯 I’m looking to collaborate on ... Vue.js
+- 🤔 I’m looking for help with ... AWS
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... [YouTube Channel](http://erik.video)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am half Finnish
+
 
 ### Connect with me:
 
