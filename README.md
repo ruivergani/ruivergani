@@ -10,16 +10,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: ... I am half Brazilian/Italian living in the UK
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ruivergani&theme=default" /></td>
-    </tr>   
-  </table>
-</center>
-
-
 ### Connect with me:
 
 [<img align="left" alt="ruiverganineto.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -47,6 +37,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&hide=html&layout=compact&theme=default" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ruivergani&theme=default" /></td>
+    </tr>   
+  </table>
+</center>
 <br />
 
 [website]: https://ruiverganineto.com
