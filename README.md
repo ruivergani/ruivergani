@@ -1,28 +1,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ruiverganineto/)](https://https://www.linkedin.com/in/ruiverganineto/)
-[![Gmail Badge](http://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5531998005262)](https://api.whatsapp.com/send?1=pt_BR&phone=5531998005262)
+[![Gmail Badge](http://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=en_GB&phone=4407543281851)](https://api.whatsapp.com/send?1=en_GB&phone=4407543281851)
 
-Access to Higher Education Diploma: Computing at Kingston College
+## Here is what I am working on! 👋
 
-## Here is what I am working on! 
-
-- 🔭 I just launched my portfolio: !
-- 🌱 I’m currently developing my coding skills
+- 🔭 I’m currently studying at ... Kingston College
+- 🌱 I’m currently learning ... VB.NET
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
-### My name is Erik Hanchett and I'm a full stack developer! 👋
-
-
-- 🔭 I’m currently working on ... YouTube
-- 🌱 I’m currently learning ... Vue.js
-- 👯 I’m looking to collaborate on ... Vue.js
-- 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [YouTube Channel](http://erik.video)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half Finnish
-
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: ... I am half Brazilian/Italian living in the UK
 
 ### Connect with me:
 
