@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruiverganineto/)](https://www.linkedin.com/in/ruiverganineto/)
 [![Gmail Badge](http://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=en_GB&phone=4407543281851)](https://api.whatsapp.com/send?1=en_GB&phone=4407543281851)
 
-## Here is what I am working on! 👋
+## Here is what I am working on! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I’m currently studying at ... Kingston College
 - 🌱 I’m currently learning ... VB.NET
