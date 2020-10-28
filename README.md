@@ -6,27 +6,10 @@ Access to Higher Education Diploma: Computing at Kingston College
 
 ## I'm a Student in United Kingdom!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning Computer Science
+- 🔭 I just launched my portfolio: !
+- 🌱 I’m currently developing my coding skills
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-
-
-Technical Skills:
-• Advanced PHP, HTML5, CSS3 and JavaScript.
-• VB.Net
-• Great knowledge of MYSQL.
-• Extensive Bootstrap Framework experience.
-• Also worked on small/medium projects which implemented Content Management System (CMS) Joomla!.
-• Photoshop, Layout Design, UI.
-• Only academic experience with C++, Java, and Java-OO.
-
-Personal Skills:
-• Communicative, self-taught, dedicated and proactive.
-• Expect from me to always learn more about UX / UI design while creating and to always push boundaries to deliver better products.
-• Fluency in English and native Portuguese.
-• I adapt myself easily to any type of development environment. 
-
 
 ### Connect with me:
 
