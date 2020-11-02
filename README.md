@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about ... Anything
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: ... I am half Brazilian/Italian living in the UK
 
 ### Connect with me:
 
