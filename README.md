@@ -3,11 +3,11 @@
 
 ## Here is what I am working on!   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- 🔭 . I’m currently studying at ... Kingston College
-- 🌱 . I’m currently learning ... VB.NET
-- 👯 . I’m looking to collaborate with other content creators
-- 💬 . Ask me about ... Anything
-- 🥅 . 2020 Goals: Contribute more to Open Source projects
+- 🔭  I’m currently studying at ... Kingston College
+- 🌱  I’m currently learning ... VB.NET
+- 👯  I’m looking to collaborate with other content creators
+- 💬  Ask me about ... Anything
+- 🥅  2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
