@@ -3,8 +3,8 @@
 
 ## Here is what I am working on!   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- 🔭 . I’m currently studying at ... Kingston College
-- 🌱 . I’m currently learning ... VB.NET and Jekyll
+- 🔭 . I’m currently studying at ... Staffordshire University
+- 🌱 . I’m currently learning ... Jekyll
 - 👯 . I’m looking to collaborate with other content creators
 - 💬 . Ask me about ... Anything
 - 🥅 . 2021 Goals: Contribute more to Open Source projects
