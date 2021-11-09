@@ -34,8 +34,10 @@ const githubAbout = {
   
 };
 ```
-<center>
- <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&hide=html&layout=compact&theme=default" />
- <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ruivergani&theme=default" />
-</center> 
+<table>
+  <center>
+   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&hide=html&layout=compact&theme=default" />
+   <img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=ruivergani&theme=default" />
+  </center>
+ </table>
 <br>
