@@ -11,12 +11,8 @@
 <br />
 
 <center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ruivergani&theme=default" /></td>
-    </tr>   
-  </table>
+ <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&hide=html&layout=compact&theme=default" />
+ <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ruivergani&theme=default" />
 </center>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruiverganineto&layout=compact)](https://github.com/ruivergani/github-readme-stats)
