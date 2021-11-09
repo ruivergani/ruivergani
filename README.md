@@ -1,30 +1,47 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruiverganineto/)](https://www.linkedin.com/in/ruiverganineto/)
-[![Gmail Badge](http://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=en_GB&phone=4407543281851)](https://api.whatsapp.com/send?1=en_GB&phone=4407543281851)
+<h1 align="center">
+  Hello, here's what I am working on!
+  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+</h1>
 
-## Here is what I am working on!   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="center">   
+  <a href="mailto:ruiverganineto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ruivergani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</p>
 
-* 📚 BSc Computer Science | Student
-* 🌍 Staffordshire University, London
-* 🧑🏻‍💻 Currently improving Web Development skills
-* 📎 2021 Goals: Contribute more to Open Source projects
 
-<br />
 
+### About me:
+
+```javascript
+const githubAbout = {
+  profile: {
+    name: "Rui Vergani Neto",
+    title: "Full-Stack Developer | Junior",
+    location: "London, UK",
+  },
+  hardSkills: {
+    languages: ["Javascript", "HTML", "CSS", "PHP"],
+    frameworks: ["React", "React Native", "Bootstrap"],
+    softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"],
+    CSM: ["Wordpress", "Joomla"],
+  },
+  softSkills: [
+    "Communicative",
+    "Proactive",
+    "Self-taught",
+    "English/Portuguese",
+  ]
+  
+};
+```
 <center>
+ 
  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&hide=html&layout=compact&theme=default" />
- <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ruivergani&theme=default" />
+ <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ruivergani&theme=default" /> <br />
 </center>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruiverganineto&layout=compact)](https://github.com/ruivergani/github-readme-stats)
-
-
-### Connect with me:
-
-[<img align="left" alt="ruiverganineto | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="ruiverganineto | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ruiverganineto | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<br/>
+<br/>
 
 ### Languages and Tools:
 
