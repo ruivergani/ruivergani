@@ -37,6 +37,7 @@ const githubAbout = {
 <table>
   <center>
    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&hide=html&layout=compact&theme=default" />
+    <br>
    <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=ruivergani&theme=default" />
   </center>
  </table>
