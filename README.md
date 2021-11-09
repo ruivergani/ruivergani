@@ -36,5 +36,3 @@ const githubAbout = {
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&layout=default)](https://github.com/ruivergani/github-readme-stats)
-[![ruivergani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruiverganineto)](https://github.com/ruivergani/github-readme-stats)
-
