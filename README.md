@@ -35,7 +35,7 @@ const githubAbout = {
 };
 ```
 
-<div align="center">
+<div>
   <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&langs_count=8&theme=light&layout=compact"></img>
   </div>
