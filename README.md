@@ -35,11 +35,8 @@ const githubAbout = {
 };
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&layout=default)](https://github.com/ruivergani/github-readme-stats)
-
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ruivergani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></img>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&langs_count=8&theme=light&layout=compact"></img>
   </div>
 </div>
