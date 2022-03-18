@@ -1,6 +1,5 @@
 <h1 align="center">
   Hello, here's what I am working on!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
 </h1>
 
 <p align="center">   
