@@ -20,7 +20,7 @@ const githubAbout = {
   },
   hardSkills: {
     languages: ["Javascript", "HTML", "CSS", "PHP"],
-    frameworks: ["React", "React Native", "Bootstrap"],
+    frameworks: ["React", "React Native", "Bootstrap", "GULP"],
     softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"],
     CSM: ["Wordpress", "Joomla"],
   },
