@@ -30,6 +30,5 @@ const githubAbout = {
     "Self-taught",
     "English/Portuguese",
   ]
-  
 };
 ```
