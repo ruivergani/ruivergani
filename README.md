@@ -15,20 +15,21 @@
 const githubAbout = {
   profile: {
     name: "Rui Vergani Neto",
-    title: "Full-Stack Developer | Junior",
+    title: "Web Developer",
     location: "London, UK",
   },
   hardSkills: {
     languages: ["Javascript", "HTML", "CSS", "PHP"],
-    frameworks: ["React", "React Native", "Bootstrap", "GULP"],
-    softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"],
-    CSM: ["Wordpress", "Joomla"],
+    frameworks: ["ReactJS", "Bootstrap", "GULP", "Databases", "SASS/LESS", "BEM naming"],
+    softwares: ["Figma"],
+    CMS: ["Wordpress", "Joomla"]
   },
   softSkills: [
     "Communicative",
     "Proactive",
     "Self-taught",
     "English/Portuguese",
+    "Eligible to work in the UK"
   ]
 };
 ```
