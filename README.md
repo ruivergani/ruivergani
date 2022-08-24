@@ -21,7 +21,7 @@ const githubAbout = {
   hardSkills: {
     languages: ["Javascript", "HTML", "CSS", "PHP"],
     frameworks: ["ReactJS", "Bootstrap", "GULP", "Databases", "SASS/LESS", "BEM naming"],
-    softwares: ["Figma"],
+    softwares: ["Figma", "VsCODE"],
     CMS: ["Wordpress", "Joomla"]
   },
   softSkills: [
