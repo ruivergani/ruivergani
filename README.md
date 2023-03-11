@@ -15,7 +15,7 @@
 const githubAbout = {
   profile: {
     name: "Rui Vergani Neto",
-    title: "Web Developer",
+    title: "Front-end Developer",
     location: "London, UK",
   },
   hardSkills: {
