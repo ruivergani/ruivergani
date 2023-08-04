@@ -19,17 +19,17 @@ const githubAbout = {
     location: "London, UK",
   },
   hardSkills: {
-    languages: ["Javascript", "HTML", "CSS", "PHP"],
-    frameworks: ["ReactJS", "Bootstrap", "GULP", "Databases", "SASS/LESS", "BEM naming"],
-    softwares: ["Figma", "VS Code"],
-    CMS: ["Wordpress", "Joomla"]
+    languages: ["Javascript", "TypeScript", "HTML", "CSS", "PHP"],
+    frameworks: ["ReactJS", "Bootstrap", "Tailwind", "SASS/LESS", "GULP", "BEM naming"],
+    software: ["Figma", "VS Code"],
+    CMS: ["WordPress", "Joomla"]
   },
   softSkills: [
     "Communicative",
     "Proactive",
     "Self-taught",
     "English/Portuguese",
-    "Eligible to work in the UK"
+    "Eligible to work in the UK, EU and Brazil"
   ]
 };
 ```
