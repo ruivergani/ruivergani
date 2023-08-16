@@ -16,11 +16,11 @@ const githubAbout = {
   profile: {
     name: "Rui Vergani Neto",
     title: "Front-end Developer",
-    location: "London, UK",
+    location: "London, United Kingdom",
   },
   hardSkills: {
     languages: ["Javascript", "TypeScript", "HTML", "CSS", "PHP"],
-    frameworks: ["ReactJS", "Bootstrap", "Tailwind", "SASS/LESS", "GULP", "BEM naming"],
+    frameworks: ["ReactJS", "Bootstrap", "Tailwind CSS", "SASS/LESS", "GULP", "BEM naming"],
     software: ["Figma", "VS Code"],
     CMS: ["WordPress", "Joomla"]
   },
