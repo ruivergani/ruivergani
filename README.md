@@ -29,7 +29,11 @@ const githubAbout = {
     "Proactive",
     "Self-taught",
     "English/Portuguese",
-    "Eligible to work in the UK, EU and Brazil"
+    "Eligible to work in the United Kingdom, EU, and Brazil"
   ]
 };
 ```
+
+### Technologies Stats:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivergani&layout=compact&langs_count=7"/>
